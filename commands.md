@@ -9,3 +9,5 @@ npm i morgan
 npm i mongoose
 
 npm i colors
+
+npm i slugify
