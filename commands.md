@@ -24,5 +24,5 @@ npm i jsonwebtoken bcryptjs
 
 www.jwt.io
 
-
+npm install cookie-parser
 
