@@ -26,3 +26,8 @@ www.jwt.io
 
 npm install cookie-parser
 
+npm i nodemailer
+
+[mailtrap](https://mailtrap.io/)
+
+http://nodemailer.com/about/
