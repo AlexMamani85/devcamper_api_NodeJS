@@ -31,3 +31,5 @@ npm i nodemailer
 [mailtrap](https://mailtrap.io/)
 
 http://nodemailer.com/about/
+
+npm i express-mongo-sanitize 
