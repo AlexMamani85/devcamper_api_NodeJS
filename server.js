@@ -43,6 +43,12 @@ app.use(fileupload());
 // Sanitize data
 app.use(mongoSanitize());
 
+// Set security headers
+app.use(helmet());
+
+// Prevent XSS attacks 
+app.use(xss());
+
 // Set static folder
 app.use(express.static(path.join(__dirname, 'public')));
 
